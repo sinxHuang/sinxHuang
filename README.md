@@ -15,5 +15,4 @@ Will begin a Ph.D. journey at **SJTU** in September 2026.
 ## 🌐 Links
 
 - 📧 **Personal Email**: sinxhuang@163.com  
-- 🧭 [Academic Homepage](https://sinxHuang.github.io)  
-- 🪴 [Personal Website( You can find my blogs here ~ 😊✨)](https://sinxhuang.vercel.app)
+- 🧭 [Personal Homepage](https://sinxHuang.github.io)  
