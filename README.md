@@ -6,14 +6,14 @@
 
 ## 🎓 About Me
 
-I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**, expected to graduate in June 2026. I will begin my Ph.D. journey in September 2026 at **Shanghai Jiao Tong University**, joining the **Media Lab**.
+I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**, and will begin my Ph.D. journey in September 2026 at **Shanghai Jiao Tong University**, joining the **Media Lab**.
 
-### 🔬 Research Interests
+## 🔬 Research Interests
 
 - Efficient MLLMs    
 - Video and Image Processing    
 
-### 🌟 Hobbies
+## 🌟 Hobbies
 
 - 📖 Reading: Literature and Science Fiction
 - 🎸 Music: Rock, electronic, and pop
