@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Sinx!
 
-[![Email](https://img.shields.io/badge/Email-sinxhuang@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinxhuang@163.com)
-[![Website](https://img.shields.io/badge/Website-sinxHuang.github.io-1F6FEB?style=for-the-badge)](https://sinxHuang.github.io)
-[![Rednote](https://img.shields.io/badge/Rednote-xhslink-FF2442?style=for-the-badge)](https://xhslink.com/m/7cjK8ALdst8)
+[![Email](https://img.shields.io/badge/Email-sinxhuang@163.com-D14836?style=flat-square&logo=gmail)](mailto:sinxhuang@163.com)
+[![Website](https://img.shields.io/badge/Website-sinxHuang-1F6FEB?style=flat-square&logo=googlehome)](https://sinxHuang.github.io)
+[![Rednote](https://img.shields.io/badge/Rednote-Sinx.-FF2442?style=flat-square&logo=xiaohongshu)](https://xhslink.com/m/7cjK8ALdst8)
 
 ## 🎓 About Me
 
-I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**, and will begin my Ph.D. journey in September 2026 at **Shanghai Jiao Tong University**, joining the **Media Lab**.
+I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**.    
+In September 2026, I will begin my Ph.D. journey at **Shanghai Jiao Tong University**, joining the **Media Lab**.
 
 ## 🔬 Research Interests
 
