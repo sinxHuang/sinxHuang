@@ -6,8 +6,7 @@
 
 ## 🎓 About Me
 
-I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**.    
-In September 2026, I will begin my Ph.D. journey at **Shanghai Jiao Tong University**, joining the **Media Lab**.
+I'm an undergraduate student majoring in Communication Engineering at **University of Electronic Science and Technology of China**. In September 2026, I will begin my Ph.D. journey at **Shanghai Jiao Tong University**, joining the **Media Lab**.
 
 ## 🔬 Research Interests
 
